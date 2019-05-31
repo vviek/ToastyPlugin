@@ -10,15 +10,10 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/stanidesis/toastyplugin.git"
+      "url": "git+https://github.com/vviek/ToastyPlugin.git"
     },
     "keywords": [
-      "Toast",
-      "Notification",
-      "Message",
-      "Alert",
-      "ecosystem:cordova",
-      "cordova-android"
+      "Toast"
     ],
     "engines": [
       {
@@ -26,10 +21,10 @@
         "version": ">=3.0.0"
       }
     ],
-    "author": "Stanley Idesis <stan.idesis@gmail.com>",
+    "author": "Vivek Patel<vivek.patel371@gmail.com>",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/stanidesis/toastyplugin/issues"
+      "url": "https://github.com/vviek/ToastyPlugin/issues"
     },
-    "homepage": "https://github.com/stanidesis/toastyplugin/"
+    "homepage": "https://github.com/vviek/ToastyPlugin"
   }
